@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SmartBetter_DEV.iml" filepath="$PROJECT_DIR$/.idea/SmartBetter_DEV.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../SmartBetter_PROD/.idea/SmartBetter_PROD.iml" filepath="$PROJECT_DIR$/../SmartBetter_PROD/.idea/SmartBetter_PROD.iml" />
-    </modules>
-  </component>
-</project>
