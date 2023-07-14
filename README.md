@@ -22,3 +22,4 @@ SmartBetter is the software side of the platform. This stuff is really out of da
 - notification.py is the texting service. It just sends a text to a phone number. I can give your phone # access if you want to test it out, just let me know.
 - This whole directory is a mess theres no point in detailing all the scripts, it's going to have to be reorganized....
 
+Lastly, the data folder that's necessary for a lot of this to run is getting uploaded to dropbox rn. Text me. 
